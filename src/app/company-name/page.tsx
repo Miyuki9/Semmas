@@ -4,7 +4,7 @@ import Image from "next/image"
 import { useState } from "react"
 import Link from "next/link"
 
-export default function company_name () {
+export default function Company_name () {
     const [companyName, setCompanyName] = useState("");
 
     return (
